@@ -1,14 +1,17 @@
 <h1 >Hey 👋, I'm Himanshu Jha</h1>
 <h3>Full Stack Developer, UX/UI Designer, Content Creator</h3>
-<p>I'm a Full Stack Developer, UX/UI Designer, and a Content Creator, mostly interested in filmmaking. I love building Great designs and more than that, bringing those designs to real world for better user experience.</p>
+<p>I'm a Full Stack Developer, UX/UI Designer, and a Content Creator, mostly interested in filmmaking. I love building Great designs and more than that, bringing those designs to the real world for a better user experience.</p>
 
 - 💬 Ask me about **React**
+
 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-kumar-jha7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tigmanshujah@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://himanshu-portfolio.framer.website/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/himanshujha15) <p align="left"> <a href="https://twitter.com/himanshujha77" target="blank"><img src="https://img.shields.io/twitter/follow/himanshujha77?logo=twitter&style=for-the-badge" alt="himanshujha77" /></a> </p>
 
-# 💻 Tech Stack:
+
+
+## 💻 Tech Stack:
 <h4>Languages</h4>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -33,7 +36,7 @@
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himanshujha7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Himanshujha7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Himanshujha7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshujha7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
